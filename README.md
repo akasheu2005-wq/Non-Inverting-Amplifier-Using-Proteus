@@ -11,6 +11,8 @@ To design and simulate a Non-Inverting Amplifier using μA741 in Proteus Design 
 •	CRO / Oscilloscope
 •	Connecting wires
 ## Circuit Diagram
+<img width="892" height="556" alt="Screenshot 2026-02-23 090917" src="https://github.com/user-attachments/assets/e02b4231-56fc-4a75-9d11-f4c13456ebb4" />
+
 (Draw neatly in record OR paste Proteus circuit screenshot)
 Pin Configuration:
 •	Pin 3 → Input (Non-inverting)
@@ -31,7 +33,11 @@ The output signal is amplified and remains in phase with the input signal.
 7.	Run simulation.
 8.	Observe input and output waveforms.
 ## Waveform
+<img width="1275" height="813" alt="Screenshot 2026-02-23 090938" src="https://github.com/user-attachments/assets/6ee901cd-b071-436b-bc57-cc5096d14949" />
+
 ## Tabulation
+<img width="1165" height="286" alt="Screenshot 2026-02-23 091159" src="https://github.com/user-attachments/assets/f2deb0d7-475a-472b-9fa6-549133c7c2e9" />
+
 S.No	Vin (V)	Theoretical Gain	Theoretical Vout (V)	Practical Vout (V)
 ## Result
 The Non-Inverting Amplifier using μA741 Op-Amp was designed and simulated successfully.
